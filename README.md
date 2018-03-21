@@ -11,7 +11,7 @@
 5）具体实现原理请参考“报告书”及代码注释<br>
 
 ### 2、效果图
-![robot]()
+![robot](https://github.com/assissionop/Tetris/raw/master/readme_picture/%E6%95%88%E6%9E%9C%E5%9B%BE1.png)
 
 ### 3、其他
 有疑问可发邮件到 ass-op@qq.com 咨询
