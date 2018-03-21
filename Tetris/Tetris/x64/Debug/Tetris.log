@@ -1,0 +1,57 @@
+﻿  tetris.cpp
+d:\github_repository\tetris\tetris\tetris\tetris\include\angel.h(63): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(698): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(699): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(700): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(721): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(723): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(726): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(743): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(196): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(196): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(197): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(197): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(198): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(198): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(199): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(199): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(223): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(223): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(224): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(224): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(225): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(225): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(226): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(226): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(282): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(350): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(351): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(358): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(359): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(375): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(376): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(377): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(378): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(563): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(580): warning C4244: “初始化”: 从“GLfloat”转换到“int”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(581): warning C4244: “初始化”: 从“GLfloat”转换到“int”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(585): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(641): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(652): warning C4305: “参数”: 从“double”到“float”截断
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(660): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(660): warning C4305: “参数”: 从“double”到“float”截断
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(661): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(685): warning C4305: “参数”: 从“double”到“float”截断
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(686): warning C4305: “参数”: 从“double”到“float”截断
+d:\github_repository\tetris\tetris\tetris\tetris\tetris.cpp(687): warning C4305: “参数”: 从“double”到“float”截断
+  InitShader.cpp
+d:\github_repository\tetris\tetris\tetris\tetris\include\angel.h(63): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(698): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(699): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(700): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(721): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(723): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(726): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(743): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“freeglut.lib”

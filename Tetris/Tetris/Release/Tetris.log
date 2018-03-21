@@ -1,0 +1,47 @@
+﻿  InitShader.cpp
+Common\InitShader.cpp(1): fatal error C1083: 无法打开包括文件: “Angel.h”: No such file or directory
+  tetris.cpp
+d:\github_repository\tetris\tetris\tetris\tetris\include/Angel.h(63): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(698): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(699): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(700): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(721): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(723): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(726): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github_repository\tetris\tetris\tetris\tetris\include\mat.h(743): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(196): warning C4305: “参数”: 从“double”到“GLfloat”截断
+tetris.cpp(196): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(197): warning C4305: “参数”: 从“double”到“GLfloat”截断
+tetris.cpp(197): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(198): warning C4305: “参数”: 从“double”到“GLfloat”截断
+tetris.cpp(198): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(199): warning C4305: “参数”: 从“double”到“GLfloat”截断
+tetris.cpp(199): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(223): warning C4305: “参数”: 从“double”到“GLfloat”截断
+tetris.cpp(223): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(224): warning C4305: “参数”: 从“double”到“GLfloat”截断
+tetris.cpp(224): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(225): warning C4305: “参数”: 从“double”到“GLfloat”截断
+tetris.cpp(225): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(226): warning C4305: “参数”: 从“double”到“GLfloat”截断
+tetris.cpp(226): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(282): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+tetris.cpp(350): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(351): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(358): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(359): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(375): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(376): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(377): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(378): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(563): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+tetris.cpp(580): warning C4244: “初始化”: 从“GLfloat”转换到“int”，可能丢失数据
+tetris.cpp(581): warning C4244: “初始化”: 从“GLfloat”转换到“int”，可能丢失数据
+tetris.cpp(585): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+tetris.cpp(652): warning C4305: “参数”: 从“double”到“float”截断
+tetris.cpp(660): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+tetris.cpp(660): warning C4305: “参数”: 从“double”到“float”截断
+tetris.cpp(661): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+tetris.cpp(685): warning C4305: “参数”: 从“double”到“float”截断
+tetris.cpp(686): warning C4305: “参数”: 从“double”到“float”截断
+tetris.cpp(687): warning C4305: “参数”: 从“double”到“float”截断
